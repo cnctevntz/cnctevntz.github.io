@@ -1,0 +1,20 @@
+html, body, #ie-upgrade {
+  height:100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#menubar-container, #landing-panel, #smol-panel, .full-panel {
+  display: none;
+}
+
+#ie-upgrade td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.panel{
+  display: none;
+}
